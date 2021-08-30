@@ -1,4 +1,5 @@
-<p style="text-align: center;"> ## Hi, I'm Mert 👋 </p>
+
+## Hi, I'm Mert 👋
 ### Software Developer from Turkey
 
 - 🌱 I’m currently learning Kotlin, React, Javascript

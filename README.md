@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning Kotlin, React, Javascript
 - 📫 How to reach me:  [via email](mailto:mert.ozbudak@outlook.com)
-- :briefcase: Check out my *[Porfolio](https://drive.google.com/file/d/15kewCDmPUEavowN1x0TbhZ1bdtvUjYov/view)*.
 
 <!--
 **MertOzbudak/mertozbudak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

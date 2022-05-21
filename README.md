@@ -2,7 +2,7 @@
 ## Hi, I'm Mert 👋
 ### Software Developer from Turkey
 
-- 🌱 I’m currently learning Kotlin, React, Javascript
+- 🌱 I’m currently learning React Native, React, Javascript
 - 📫 How to reach me:  [via email](mailto:mert.ozbudak@outlook.com)
 
 <!--
